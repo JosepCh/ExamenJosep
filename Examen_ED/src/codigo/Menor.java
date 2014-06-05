@@ -15,7 +15,7 @@ public class Menor {
 	}
 	
 	public void setA(int a){
-		this.a=b;
+		this.a=a;
 	}
 
 	public void setB(int b){
